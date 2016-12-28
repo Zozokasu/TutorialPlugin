@@ -5,3 +5,8 @@ description: You can be kasu.
 load: STARTUP
 author: X5Z
 website: https://github.com/jojo3926
+jf:
+      description: Say jaoafa
+      usage: /<command>
+      permission: zokasu.jf
+      permission-message: You do not have permission to perform this command.
