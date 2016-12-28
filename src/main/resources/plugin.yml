@@ -6,8 +6,8 @@ load: STARTUP
 author: X5Z
 website: https://github.com/jojo3926
 commands:
-jf:
+   jf:
       description: Say jaoafa
       usage: /<command>
-      permission: zokasu.jf
+      permission: mymaid.jf
       permission-message: You do not have permission to perform this command.
