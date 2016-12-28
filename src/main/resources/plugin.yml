@@ -5,6 +5,7 @@ description: You can be kasu.
 load: STARTUP
 author: X5Z
 website: https://github.com/jojo3926
+commands:
 jf:
       description: Say jaoafa
       usage: /<command>
